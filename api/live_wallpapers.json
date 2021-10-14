@@ -1,0 +1,29 @@
+{
+  "live_wallpapers": [
+    {
+      "url": "https://imgur.com/8saUMlc.mp4",
+      "isNew": true,
+      "cost": 2
+    },
+    {
+      "url": "https://imgur.com/rbHiBQK.mp4",
+      "isNew": true,
+      "cost": 3
+    },
+    {
+      "url": "https://imgur.com/G2fgLlq.mp4",
+      "isNew": true,
+      "cost": 3
+    },
+    {
+      "url": "https://imgur.com/APTUNip.mp4",
+      "isNew": true,
+      "cost": 1
+    },
+    {
+      "url": "https://imgur.com/5zoo91I.mp4",
+      "isNew": true,
+      "cost": 1
+    }
+  ]
+}
